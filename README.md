@@ -1,5 +1,9 @@
 # GridPulse – Verteilnetz-Monitoring & Sensitivitätsanalyse
 
+GridPulse ist mein erstes größeres Projekt, weil ich vorher nur sehr kleine pandapower Programme geschrieben hatte und ich hiermit zum ersten Mal etwas größeres erstellt habe. Damit ich jetzt einmal gesehen habe, wie so etwas aussehen kann und mir jetzt selber von vorne bis hinten ein großes Projekt erstellen kann. Damit erhoffe ich mir, dass dies das erste von vielen Projekten jetzt sein wird.
+
+---
+
 Interaktives Analysetool zur netztechnischen Bewertung von Photovoltaik-Ausbaupfaden in Verteilnetzen. Das Projekt modelliert ein standardisiertes CIGRE-Mittelspannungsnetz (20 kV) und führt stundenbasierte AC-Leistungsflussrechnungen durch, um Spannungsbandverletzungen und Leitungsengpässe transparent darzustellen.
 
 ---

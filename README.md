@@ -17,7 +17,7 @@ Interaktives Analysetool zur netztechnischen Bewertung von Photovoltaik-Ausbaupf
 
 ---
 
-## Verwendete Technologien
+## Python libraries
 
 * **Netzberechnung:** `pandapower`, `scipy`
 * **Datenverarbeitung:** `pandas`, `numpy`
@@ -26,7 +26,7 @@ Interaktives Analysetool zur netztechnischen Bewertung von Photovoltaik-Ausbaupf
 
 ---
 
-## Projektstruktur
+## Filesstructure
 
 ```text
 gridpulse/
